@@ -1,2 +1,2 @@
 # MiniProjetos
-Pequenos programas em Python
+Pequenos programas em Python para serem executados via console.
